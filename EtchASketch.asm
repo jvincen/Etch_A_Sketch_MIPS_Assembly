@@ -1,7 +1,7 @@
 # Title:  Etch A Sketch
-# Desc: 	  A program that emulates an Etch-A-Sketch
+# Desc:   A program that emulates an Etch-A-Sketch
 # Author: Joseph Vincent
-# Date:	  12/07/2021
+# Date:   12/07/2021
 
 .eqv BIT_MAP_ADDR	0x10040000	# Base address for bitmap display
 .eqv GREY		0x00808080	# Color grey for border
